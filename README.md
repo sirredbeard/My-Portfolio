@@ -4,15 +4,14 @@ Laywer by day. Open source tinkerer by night.
 
 [LinkedIn](https://www.linkedin.com/in/thbarnes)
 
-### Skills
+### Tech Skills
 
-* Linux workstation administration and troubleshooting.
-* macOS workstation and server administration and troubleshooting.
-* Windows Subsystem for Linux.
 * Software testing
-* Filing actionable bug reports
+* Filing bug reports
 * Writing documentation
-* Intellectual property compliance.
+* Community development
+* Licensing compliance
+* Linux, macOS, and Windows 10
 * git
 * bash
 * python3
