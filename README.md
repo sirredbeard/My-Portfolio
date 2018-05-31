@@ -9,18 +9,19 @@ Laywer by day. Open source tinkerer by night.
 * Software testing
 * Filing bug reports
 * Writing documentation
-* Community development
+* Community policy development
 * Licensing compliance
+* Intellectual property compliance
 * Linux, macOS, and Windows 10
 * git
 * bash
 * python3
 
-### Personal Code Projects
+### Personal Projects
 
 [reversetrackpoint](https://github.com/sirredbeard/reversetrackpoint) - Script for Windows to reverse scrolling direction of trackpoint on Thinkpads.
 
-[yumonclearlinux](https://github.com/sirredbeard/yumonclearlinux) - Script to set up working yum repos on Clear Linux.
+[yumonclearlinux](https://github.com/sirredbeard/yumonclearlinux) - A proof of concept script to set up working yum repos on Clear Linux.
 
 ### Documentation Projects
 
