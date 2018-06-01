@@ -13,8 +13,21 @@ Looking for opportunities to combine the two.
 * Writing end-user documentation.
 * Open-source community development.
 * Licensing and intellectual property compliance.
-* Fluent on Linux, macOS, and Windows 10
+* Fluent on Linux, macOS, and Windows.
 * Functional usage of python3, git, and bash.
+
+### Professional Skills
+
+* Leadership and project managament.
+* Engaging writing and persuasive public speaking.
+* Policy development.
+* Process implementation.
+
+### Education
+
+* Post-Bac, edX Computer Science Coursework, 2017-.
+* J.D., University of Baltimore School of Law, 2013.
+* B.S., Kennesaw State University, 2009.
 
 ### Personal Projects
 
