@@ -1,4 +1,3 @@
-* [gnome-shell-extension-gsconnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect/commits?author=sirredbeard)
 # Hayden Barnes
 
 Communicator by day.
