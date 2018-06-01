@@ -1,21 +1,20 @@
 # Hayden Barnes
 
-Laywer by day. Open source tinkerer by night. Looking to take my skills into tech full-time.
+Communicator by day.
+Open source tinkerer by night.
+Looking for opportunities to combine the two.
 
-[LinkedIn](https://www.linkedin.com/in/thbarnes)
+* Resume (Pending)
+* [LinkedIn](https://www.linkedin.com/in/thbarnes)
 
 ### Tech Skills
 
-* Software testing
-* Filing bug reports
-* Writing documentation
-* Community policy development
-* Licensing compliance
-* Intellectual property compliance
-* Linux, macOS, and Windows 10
-* git
-* bash
-* python3
+* Software testing, bug reports, and quality assurance.
+* Writing end-user documentation.
+* Open-source community development.
+* Licensing and intellectual property compliance.
+* Fluent on Linux, macOS, and Windows 10
+* Functional usage of python3, git, and bash.
 
 ### Personal Projects
 
