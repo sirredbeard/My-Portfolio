@@ -46,13 +46,14 @@ Looking for opportunities to combine the two.
 
 ### Bug Reports
 
-* [Ubuntu](https://bugs.launchpad.net/ubuntu/+bugs?search=Search&field.bug_reporter=recalcitrantowl)
+* [Ubuntu](https://bugs.launchpad.net/ubuntu/artful/+source/ebtables/+bug/1774120)
 * [Fedora](https://bugzilla.redhat.com/buglist.cgi?bug_status=NEW&bug_status=VERIFIED&bug_status=ASSIGNED&bug_status=MODIFIED&bug_status=ON_DEV&bug_status=ON_QA&bug_status=RELEASE_PENDING&bug_status=POST&email1=recalcitrantowl%40gmail.com&emailassigned_to1=1&emailcc1=1&emailreporter1=1&emailtype1=exact&list_id=8886617
 )
 * [Solus](https://dev.solus-project.com/p/sirredbeard/)
 * [Windows Subsystem for Linux](https://github.com/Microsoft/WSL/issues/3249)
 * [Ubuntu Touch](https://github.com/ubports/ubuntu-touch/issues/608)
 * [Budgie](https://github.com/solus-project/budgie-desktop/issues/1437)
+* Apple
 
 ### Contributions
 
