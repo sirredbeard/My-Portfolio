@@ -4,28 +4,32 @@ Communicator by day.
 Open source tinkerer by night.
 Looking for opportunities to combine the two.
 
-* Resume (Pending)
+* [Resume](https://github.com/sirredbeard/My-Portfolio/blob/master/Resume.pdf)
 * [LinkedIn](https://www.linkedin.com/in/thbarnes)
+
+### Professional Skills
+
+* Leadership.
+* Strategic planning.
+* Project management.
+* Engaging writing.
+* Persuasive public speaking.
+* Media relations.
+* Policy development.
+* Process implementation.
 
 ### Tech Skills
 
 * Software testing, bug reports, and quality assurance.
-* Writing end-user documentation.
+* Writing documentation.
 * Open-source community development.
 * Licensing and intellectual property compliance.
 * Fluent on Linux, macOS, and Windows.
 * Functional usage of python3, git, and bash.
 
-### Professional Skills
-
-* Leadership and project managament.
-* Engaging writing and persuasive public speaking.
-* Policy development.
-* Process implementation.
-
 ### Education
 
-* Post-Bac, edX Computer Science Coursework, 2017-.
+* Postbaccalaureate Coursework, edX, 2017-.
 * J.D., University of Baltimore School of Law, 2013.
 * B.S., Kennesaw State University, 2009.
 
