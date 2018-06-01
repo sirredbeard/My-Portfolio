@@ -2,6 +2,8 @@
 
 Laywer by day. Open source tinkerer by night.
 
+Interested in opportunities merging my interest in technology with my communication and compliance skills.
+
 [LinkedIn](https://www.linkedin.com/in/thbarnes)
 
 ### Tech Skills
