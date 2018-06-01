@@ -1,3 +1,4 @@
+* [gnome-shell-extension-gsconnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect/commits?author=sirredbeard)
 # Hayden Barnes
 
 Communicator by day.
@@ -37,6 +38,7 @@ Looking for opportunities to combine the two.
 
 * [reversetrackpoint](https://github.com/sirredbeard/reversetrackpoint) - Script for Windows to reverse scrolling direction of trackpoint on Thinkpads.
 * [yumonclearlinux](https://github.com/sirredbeard/yumonclearlinux) - A proof of concept script to set up working yum repos on Clear Linux.
+* [legaldocs](https://github.com/sirredbeard/legaldocs) - Open-source versions of basic Georgia legal forms made available for free.
 
 ### Documentation Projects
 
@@ -50,9 +52,13 @@ Looking for opportunities to combine the two.
 )
 * [Solus](https://dev.solus-project.com/p/sirredbeard/)
 * [Windows Subsystem for Linux](https://github.com/Microsoft/WSL/issues/3249)
+* [Ubuntu Touch](https://github.com/ubports/ubuntu-touch/issues/608)
+* [Budgie](https://github.com/solus-project/budgie-desktop/issues/1437)
 
 ### Contributions
 
 * [feedreader](https://github.com/jangernert/FeedReader/commits?author=sirredbeard&since=2018-04-01T04:00:00Z&until=2018-05-01T04:00:00Z)
 * [Fedora Documentation](https://docs.fedoraproject.org/quick-docs/en-US/installing-spotify.html)
 * [Spyder3 Documentation](https://github.com/spyder-ide/spyder-docs/pull/47)
+* [gnome-shell-extension-gsconnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect/commits?author=sirredbeard)
+* [acme-wsl](https://github.com/elrzn/acme-wsl/commit/bc1992af16350dd4995c0f3fa399c2ea54bd5ec9)
