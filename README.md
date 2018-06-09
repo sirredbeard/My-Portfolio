@@ -52,7 +52,9 @@ Looking for opportunities to combine the two.
 * [Solus](https://dev.solus-project.com/p/sirredbeard/)
 * [Windows Subsystem for Linux](https://github.com/Microsoft/WSL/issues/3249)
 * [Ubuntu Touch](https://github.com/ubports/ubuntu-touch/issues/608)
-* [Budgie](https://github.com/solus-project/budgie-desktop/issues/1437)
+* [Clear Linux](https://github.com/clearlinux/distribution/issues/78)
+* [Mono](https://github.com/mono/monodevelop/issues/5022)
+* [Budgie Desktop](https://github.com/solus-project/budgie-desktop/issues/1437)
 * Apple
 
 ### Contributions
