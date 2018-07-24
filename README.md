@@ -35,8 +35,10 @@ Looking for opportunities to combine the two.
 
 ### Personal Projects
 
+* [ThinkDOS](https://github.com/sirredbeard/ThinkDOS) - FreeDOS shell for Windows based on QEMU.
+* [WinMINIX](https://github.com/sirredbeard/WinMinix) - MINIX shell for Windows based on QEMU.
 * [reversetrackpoint](https://github.com/sirredbeard/reversetrackpoint) - Script for Windows to reverse scrolling direction of trackpoint on Thinkpads.
-* [yumonclearlinux](https://github.com/sirredbeard/yumonclearlinux) - A proof of concept script to set up working yum repos on Clear Linux.
+* [yumonclearlinux](https://github.com/sirredbeard/yumonclearlinux) - A proof-of-concept to enable yum support on Clear Linux.
 * [legaldocs](https://github.com/sirredbeard/legaldocs) - Open-source versions of basic Georgia legal forms made available for free.
 
 ### Documentation Projects
@@ -55,6 +57,7 @@ Looking for opportunities to combine the two.
 * [Clear Linux](https://github.com/clearlinux/distribution/issues/78)
 * [Mono](https://github.com/mono/monodevelop/issues/5022)
 * [Budgie Desktop](https://github.com/solus-project/budgie-desktop/issues/1437)
+* Microsoft
 * Apple
 
 ### Contributions
