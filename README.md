@@ -1,30 +1,25 @@
 # Hayden Barnes
 
-Communicator by day.
-Open source tinkerer by night.
-Looking for opportunities to combine the two.
-
 * [Resume](https://github.com/sirredbeard/My-Portfolio/blob/master/Resume.pdf)
-* [LinkedIn](https://www.linkedin.com/in/thbarnes)
+* [LinkedIn](https://www.linkedin.com/in/thbarnes) Profile
 
 ### Professional Skills
 
 * Leadership.
-* Strategic planning.
 * Project management.
-* Engaging writing.
+* Strategic planning.
 * Persuasive public speaking.
 * Media relations.
-* Policy development.
-* Process implementation.
+* Policy and people development.
+* Process improvement.
 
 ### Tech Skills
 
 * Software testing, bug reports, and quality assurance.
 * Writing documentation.
-* Open-source community development.
+* Open-source community relations and development.
 * Licensing and intellectual property compliance.
-* Fluent on Linux, macOS, and Windows.
+* Fluent on Linux, macOS, and Windows 10.
 * Functional usage of python3, git, and bash.
 
 ### Education
@@ -32,6 +27,10 @@ Looking for opportunities to combine the two.
 * Postbaccalaureate Coursework, edX, 2017-.
 * J.D., University of Baltimore School of Law, 2013.
 * B.S., Kennesaw State University, 2009.
+
+### Business Projects
+
+* [WLinux](https://github.com/WhitewaterFoundry/WLinux) - Linux distro optimized for Windows Subsystem for Linux.
 
 ### Personal Projects
 
