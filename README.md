@@ -1,6 +1,5 @@
 # Hayden Barnes
 
-* [Resume](https://github.com/sirredbeard/My-Portfolio/blob/master/Resume.pdf)
 * [LinkedIn](https://www.linkedin.com/in/thbarnes) Profile
 
 ### Professional Skills
