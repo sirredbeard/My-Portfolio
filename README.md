@@ -7,7 +7,7 @@
 * Leadership.
 * Project management.
 * Strategic planning.
-* Persuasive public speaking.
+* Public speaking.
 * Media relations.
 * Policy and people development.
 * Process improvement.
@@ -23,7 +23,7 @@
 
 ### Education
 
-* Postbaccalaureate Coursework, edX, 2017-.
+* Postbaccalaureate Coursework in Computer Science, edX, 2017-2018.
 * J.D., University of Baltimore School of Law, 2013.
 * B.S., Kennesaw State University, 2009.
 
