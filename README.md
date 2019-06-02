@@ -9,13 +9,12 @@
 * Strategic planning.
 * Public speaking.
 * Media relations.
-* Policy and people development.
-* Process improvement.
+* Policy development.
 
-### Tech Skills
+### Technology Skills
 
 * Software testing, bug reports, and quality assurance.
-* Writing documentation.
+* Writing documentation and public speaking.
 * Open-source community relations and development.
 * Licensing and intellectual property compliance.
 * Fluent on Linux, macOS, and Windows 10.
@@ -23,9 +22,13 @@
 
 ### Education
 
-* Postbaccalaureate Coursework in Computer Science, edX, 2017-2018.
+* Postbaccalaureate Coursework in Computer Science, edX, 2017-2019.
 * J.D., University of Baltimore School of Law, 2013.
 * B.S., Kennesaw State University, 2009.
+
+### Employment History
+
+* See [LinkedIn](https://www.linkedin.com/in/thbarnes)
 
 ### Business Projects
 
@@ -33,19 +36,25 @@
   * [Pengwin](https://github.com/WhitewaterFoundry/WLinux) - Linux distro optimized for Windows Subsystem for Linux.
   * [Pengwin Enterprise](https://github.com/WhitewaterFoundry/Pengwin-Enterprise)
   * [Fedora Remix for WSL](https://github.com/WhitewaterFoundry/Fedora-Remix-for-WSL)
+  
+### Speaking Engagements
+
+* Microsoft Build 2019, "Leveraging WSL For DevOps and Cross-Platform Development", [YouTube](https://www.youtube.com/watch?v=FX4FKxKJl74)
+* City College of San Francisco Cyber Club
+* Coder Radio
+* Linux Unplugged
+* Linux Action News
+* The Weekly Squeak
 
 ### Personal Projects
 
+* [Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX)
+* [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL)
 * [yumonclearlinux](https://github.com/sirredbeard/yumonclearlinux) - A proof-of-concept to enable yum support on Clear Linux.
 * [ThinkDOS](https://github.com/sirredbeard/ThinkDOS) - FreeDOS shell for Windows based on QEMU.
 * [WinMINIX](https://github.com/sirredbeard/WinMinix) - MINIX shell for Windows based on QEMU.
 * [reversetrackpoint](https://github.com/sirredbeard/reversetrackpoint) - Script for Windows to reverse scrolling direction of trackpoint on Thinkpads.
 * [legaldocs](https://github.com/sirredbeard/legaldocs) - Open-source versions of basic Georgia legal forms made available for free.
-
-### Documentation Projects
-
-* [Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX)
-* [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL)
 
 ### Bug Reports
 
