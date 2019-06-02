@@ -2,23 +2,31 @@
 
 * [LinkedIn](https://www.linkedin.com/in/thbarnes) Profile
 
-### Professional Skills
+### General Professional Skills
 
-* Leadership.
 * Project management.
+* Entrepreneurship and business development. 
 * Strategic planning.
 * Public speaking.
-* Media relations.
+* Media and community relations.
 * Policy development.
 
 ### Technology Skills
 
-* Software testing, bug reports, and quality assurance.
-* Writing documentation and public speaking.
-* Open-source community relations and development.
-* Licensing and intellectual property compliance.
-* Fluent on Linux, macOS, and Windows 10.
-* Functional usage of python3, git, and bash.
+* Expert in Linux/UNIX command-line tools, scripting, and operating system/container build automation.
+* Intermediate skills in continuous integration/continuous development and application packaging.
+* Skilled with Ansible, Azure, CircleCI, Code, Docker, and git.
+* Advanced Bash, intermediate Python and YAML, basic C/C++, and currently learning TypeScript.
+* Open-source project community development and developer relations.
+* Software testing, bug reports, licensing compliance, and quality assurance.
+* Writing software documentation and blogging.
+
+### Legal Skills
+
+* Experienced oral and written advocate.
+* High-impact litigation in administrative law, constitutional law, and consumer protection.
+* Open source software issues and license compliance.
+* See [old law firm website](https://www.rivertownlawyer.com/). 
 
 ### Education
 
@@ -28,23 +36,31 @@
 
 ### Employment History
 
-* See [LinkedIn](https://www.linkedin.com/in/thbarnes)
+* See [LinkedIn](https://www.linkedin.com/in/thbarnes).
+
+Prior to my legal career I worked in sales for Apple and as a Paramedic.
 
 ### Business Projects
 
-* [Whitewater Foundry](https://github.com/WhitewaterFoundry)
-  * [Pengwin](https://github.com/WhitewaterFoundry/WLinux) - Linux distro optimized for Windows Subsystem for Linux.
-  * [Pengwin Enterprise](https://github.com/WhitewaterFoundry/Pengwin-Enterprise)
-  * [Fedora Remix for WSL](https://github.com/WhitewaterFoundry/Fedora-Remix-for-WSL)
+* Whitewater Foundry
+  * [Website](https://www.pengwin.dev)
+  * Products/Services
+    * [Pengwin](https://www.pengwin.dev) - The first Linux environment optimized for Windows Subsystem for Linux (WSL).
+    * [Pengwin Enterprise](https://www.pengwin.dev/pengwin-enterprise) - The first WSL implementation of Red Hat Enterprise Linux. A custom package for commercial and enterprise customers.
+    * [Fedora Remix for WSL](https://www.pengwin.dev/fedora-remix-for-wsl) - A Fedora-based Linux environment for WSL.
+  * Social Media
+    * [Pengwin Twitter](https://twitter.com/PengwinLinux)
+    * [Pengwin Blog](https://www.pengwin.dev/blog)
+  * [GitHub](https://github.com/whitewaterfoundry/)
   
 ### Speaking Engagements
 
 * Microsoft Build 2019, "Leveraging WSL For DevOps and Cross-Platform Development", [YouTube](https://www.youtube.com/watch?v=FX4FKxKJl74)
 * City College of San Francisco Cyber Club
-* Coder Radio
-* Linux Unplugged
+* [Coder Radio](https://www.jupiterbroadcasting.com/130581/a-week-with-wsl-coder-radio-353/)
+* [Linux Unplugged](https://www.jupiterbroadcasting.com/130481/defining-desktop-linux-linux-unplugged-296/)
 * Linux Action News
-* The Weekly Squeak
+* [The Weekly Squeak](https://anchor.fm/theweeklysqueak/episodes/A-Linux-for-Windows--Pengwin--Polymaths--Login-and-Coffee-Pods-e3uncm)
 
 ### Personal Projects
 
@@ -56,7 +72,7 @@
 * [reversetrackpoint](https://github.com/sirredbeard/reversetrackpoint) - Script for Windows to reverse scrolling direction of trackpoint on Thinkpads.
 * [legaldocs](https://github.com/sirredbeard/legaldocs) - Open-source versions of basic Georgia legal forms made available for free.
 
-### Bug Reports
+### Selection of Submitted Bug Reports
 
 * [Ubuntu](https://bugs.launchpad.net/ubuntu/artful/+source/ebtables/+bug/1774120)
 * [Fedora](https://bugzilla.redhat.com/buglist.cgi?bug_status=NEW&bug_status=VERIFIED&bug_status=ASSIGNED&bug_status=MODIFIED&bug_status=ON_DEV&bug_status=ON_QA&bug_status=RELEASE_PENDING&bug_status=POST&email1=recalcitrantowl%40gmail.com&emailassigned_to1=1&emailcc1=1&emailreporter1=1&emailtype1=exact&list_id=8886617
@@ -69,7 +85,7 @@
 * [Budgie Desktop](https://github.com/solus-project/budgie-desktop/issues/1437)
 * Microsoft
 
-### Contributions
+### Selection of Open Source Project Contributions
 
 * [feedreader](https://github.com/jangernert/FeedReader/commits?author=sirredbeard&since=2018-04-01T04:00:00Z&until=2018-05-01T04:00:00Z)
 * [Fedora Documentation](https://docs.fedoraproject.org/quick-docs/en-US/installing-spotify.html)
