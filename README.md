@@ -8,8 +8,8 @@
 * Entrepreneurship and business development. 
 * Strategic planning.
 * Public speaking.
-* Media and community relations.
-* Policy development.
+* Media, government, and community relations.
+* Policy development and compliance.
 
 ### Technology Skills
 
@@ -26,6 +26,8 @@
 * Experienced oral and written advocate.
 * High-impact litigation in administrative law, constitutional law, and consumer protection.
 * Open source software issues and license compliance.
+* Appointed legislative counsel to Georgia State Senate Judiciary Committee.
+* Clerkships with Johns Hopkins Hospital and USDA National Appeals Division.
 * See [old law firm website](https://www.rivertownlawyer.com/). 
 
 ### Education
