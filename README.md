@@ -1,5 +1,6 @@
 # Hayden Barnes
 
+* Attorney who turned his passion for open source and experience advising businesses into an indie open source startup. 
 * [LinkedIn](https://www.linkedin.com/in/thbarnes) Profile
 
 ### General Professional Skills
