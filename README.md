@@ -15,8 +15,8 @@
 
 * Expert in Linux/UNIX command-line tools, scripting, and operating system/container build automation.
 * Intermediate skills in continuous integration/continuous development and application packaging.
-* Skilled with Ansible, Azure, CircleCI, Code, Docker, and git.
-* Advanced Bash, intermediate Python and YAML, basic C/C++, and currently learning TypeScript.
+* Skilled with Ansible, Azure CLI, CircleCI, Code, Debian Linux, Docker, git, and Red Hat Enterprise Linux.
+* Advanced Bash, intermediate Python 3 and YAML, basic C/C++, and currently learning TypeScript.
 * Open-source project community development and developer relations.
 * Software testing, bug reports, licensing compliance, and quality assurance.
 * Writing software documentation and blogging.
