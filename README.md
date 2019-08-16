@@ -17,7 +17,7 @@
 * Expert in Linux/UNIX command-line tools, scripting, and operating system/container build automation.
 * Intermediate skills in continuous integration/continuous development and application packaging.
 * Skilled with Ansible, Azure CLI, CircleCI, Code, Debian Linux, Docker, git, and Red Hat Enterprise Linux.
-* Advanced Bash, intermediate Python 3 and YAML, basic C/C++, and currently learning TypeScript.
+* Advanced Bash, intermediate Python 3 and YAML, basic C/C++ and SQL, and learning TypeScript.
 * Open-source project community development and developer relations.
 * Software testing, bug reports, licensing compliance, and quality assurance.
 * Writing software documentation and blogging.
@@ -69,6 +69,7 @@ Prior to my legal career I worked in sales for Apple and as a Paramedic.
 
 * [Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX)
 * [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL)
+* [hyper-v-gallery](https://github.com/sirredbeard/hyper-v-gallery) - A custom Quick Create gallery for Hyper-V.
 * [yumonclearlinux](https://github.com/sirredbeard/yumonclearlinux) - A proof-of-concept to enable yum support on Clear Linux.
 * [ThinkDOS](https://github.com/sirredbeard/ThinkDOS) - FreeDOS shell for Windows based on QEMU.
 * [WinMINIX](https://github.com/sirredbeard/WinMinix) - MINIX shell for Windows based on QEMU.
