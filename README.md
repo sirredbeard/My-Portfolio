@@ -1,7 +1,8 @@
 # Hayden Barnes
 
 * Attorney who turned his passion for open source and experience advising businesses into an indie open source startup. 
-* [LinkedIn](https://www.linkedin.com/in/thbarnes) Profile
+* [LinkedIn](https://www.linkedin.com/in/thbarnes)
+* [Personal Blog](https://boxofcables.dev/)
 
 ### General Professional Skills
 
@@ -16,7 +17,7 @@
 
 * Expert in Linux/UNIX command-line tools, scripting, and operating system/container build automation.
 * Intermediate skills in continuous integration/continuous development and application packaging.
-* Skilled with Ansible, Azure CLI, CircleCI, Code, Debian Linux, Docker, git, and Red Hat Enterprise Linux.
+* Skilled with Ansible, Azure CLI, CircleCI, Code, Debian, Docker, git, and Red Hat Enterprise Linux.
 * Advanced Bash, intermediate Python 3 and YAML, basic C/C++ and SQL, and learning TypeScript.
 * Open-source project community development and developer relations.
 * Software testing, bug reports, licensing compliance, and quality assurance.
@@ -39,9 +40,8 @@
   
 ### Personal Tech Projects
 
-* [Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX)
-* [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL)
-* [Box of Cables](https://boxofcables.dev/) - Personal blog.
+* [Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX) - An Awesome list for UNIX.
+* [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - An Awesme list for WSL.
 * [hyper-v-gallery](https://github.com/sirredbeard/hyper-v-gallery) - A custom Quick Create gallery for Hyper-V.
 * [yumonclearlinux](https://github.com/sirredbeard/yumonclearlinux) - A proof-of-concept to enable yum support on Clear Linux.
 * [ThinkDOS](https://github.com/sirredbeard/ThinkDOS) - FreeDOS shell for Windows based on QEMU.
@@ -81,16 +81,15 @@ Prior to my legal career I worked in sales for Apple and as a Paramedic.
 
 ### Selection of Submitted Bug Reports
 
+* [Microsoft](https://github.com/microsoft/WSL/issues/3939)
 * [Ubuntu](https://bugs.launchpad.net/ubuntu/artful/+source/ebtables/+bug/1774120)
 * [Fedora](https://bugzilla.redhat.com/buglist.cgi?bug_status=NEW&bug_status=VERIFIED&bug_status=ASSIGNED&bug_status=MODIFIED&bug_status=ON_DEV&bug_status=ON_QA&bug_status=RELEASE_PENDING&bug_status=POST&email1=recalcitrantowl%40gmail.com&emailassigned_to1=1&emailcc1=1&emailreporter1=1&emailtype1=exact&list_id=8886617
 )
 * [Solus](https://dev.solus-project.com/p/sirredbeard/)
-* [Windows Subsystem for Linux](https://github.com/Microsoft/WSL/issues/3249)
 * [Ubuntu Touch](https://github.com/ubports/ubuntu-touch/issues/608)
 * [Clear Linux](https://github.com/clearlinux/distribution/issues/78)
 * [Mono](https://github.com/mono/monodevelop/issues/5022)
 * [Budgie Desktop](https://github.com/solus-project/budgie-desktop/issues/1437)
-* Microsoft
 
 ### Selection of Open Source Project Contributions
 
