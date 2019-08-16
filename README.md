@@ -39,6 +39,7 @@
 
 * [Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX)
 * [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL)
+* [Box of Cables](https://boxofcables.dev/) - Personal blog.
 * [hyper-v-gallery](https://github.com/sirredbeard/hyper-v-gallery) - A custom Quick Create gallery for Hyper-V.
 * [yumonclearlinux](https://github.com/sirredbeard/yumonclearlinux) - A proof-of-concept to enable yum support on Clear Linux.
 * [ThinkDOS](https://github.com/sirredbeard/ThinkDOS) - FreeDOS shell for Windows based on QEMU.
