@@ -22,6 +22,30 @@
 * Software testing, bug reports, licensing compliance, and quality assurance.
 * Writing software documentation and blogging.
 
+### Business Tech Projects
+
+* Whitewater Foundry
+  * [Website](https://www.pengwin.dev)
+  * Products/Services
+    * [Pengwin](https://www.pengwin.dev) - The first Linux environment optimized for Windows Subsystem for Linux (WSL).
+    * [Pengwin Enterprise](https://www.pengwin.dev/pengwin-enterprise) - The first WSL implementation of Red Hat Enterprise Linux. A custom package for commercial and enterprise customers.
+    * [Fedora Remix for WSL](https://www.pengwin.dev/fedora-remix-for-wsl) - A Fedora-based Linux environment for WSL.
+  * Social Media
+    * [Pengwin Twitter](https://twitter.com/PengwinLinux)
+    * [Pengwin Blog](https://www.pengwin.dev/blog)
+  * [GitHub](https://github.com/whitewaterfoundry/)
+  
+### Personal Tech Projects
+
+* [Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX)
+* [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL)
+* [hyper-v-gallery](https://github.com/sirredbeard/hyper-v-gallery) - A custom Quick Create gallery for Hyper-V.
+* [yumonclearlinux](https://github.com/sirredbeard/yumonclearlinux) - A proof-of-concept to enable yum support on Clear Linux.
+* [ThinkDOS](https://github.com/sirredbeard/ThinkDOS) - FreeDOS shell for Windows based on QEMU.
+* [WinMINIX](https://github.com/sirredbeard/WinMinix) - MINIX shell for Windows based on QEMU.
+* [reversetrackpoint](https://github.com/sirredbeard/reversetrackpoint) - Script for Windows to reverse scrolling direction of trackpoint on Thinkpads.
+* [legaldocs](https://github.com/sirredbeard/legaldocs) - Open-source versions of basic Georgia legal forms made available for free.
+
 ### Legal Skills
 
 * Experienced oral and written advocate.
@@ -43,19 +67,6 @@
 
 Prior to my legal career I worked in sales for Apple and as a Paramedic.
 
-### Business Projects
-
-* Whitewater Foundry
-  * [Website](https://www.pengwin.dev)
-  * Products/Services
-    * [Pengwin](https://www.pengwin.dev) - The first Linux environment optimized for Windows Subsystem for Linux (WSL).
-    * [Pengwin Enterprise](https://www.pengwin.dev/pengwin-enterprise) - The first WSL implementation of Red Hat Enterprise Linux. A custom package for commercial and enterprise customers.
-    * [Fedora Remix for WSL](https://www.pengwin.dev/fedora-remix-for-wsl) - A Fedora-based Linux environment for WSL.
-  * Social Media
-    * [Pengwin Twitter](https://twitter.com/PengwinLinux)
-    * [Pengwin Blog](https://www.pengwin.dev/blog)
-  * [GitHub](https://github.com/whitewaterfoundry/)
-  
 ### Speaking Engagements
 
 * Microsoft Build 2019, "Leveraging WSL For DevOps and Cross-Platform Development", [YouTube](https://www.youtube.com/watch?v=FX4FKxKJl74)
@@ -64,17 +75,6 @@ Prior to my legal career I worked in sales for Apple and as a Paramedic.
 * [Linux Unplugged](https://www.jupiterbroadcasting.com/130481/defining-desktop-linux-linux-unplugged-296/)
 * Linux Action News
 * [The Weekly Squeak](https://anchor.fm/theweeklysqueak/episodes/A-Linux-for-Windows--Pengwin--Polymaths--Login-and-Coffee-Pods-e3uncm)
-
-### Personal Projects
-
-* [Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX)
-* [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL)
-* [hyper-v-gallery](https://github.com/sirredbeard/hyper-v-gallery) - A custom Quick Create gallery for Hyper-V.
-* [yumonclearlinux](https://github.com/sirredbeard/yumonclearlinux) - A proof-of-concept to enable yum support on Clear Linux.
-* [ThinkDOS](https://github.com/sirredbeard/ThinkDOS) - FreeDOS shell for Windows based on QEMU.
-* [WinMINIX](https://github.com/sirredbeard/WinMinix) - MINIX shell for Windows based on QEMU.
-* [reversetrackpoint](https://github.com/sirredbeard/reversetrackpoint) - Script for Windows to reverse scrolling direction of trackpoint on Thinkpads.
-* [legaldocs](https://github.com/sirredbeard/legaldocs) - Open-source versions of basic Georgia legal forms made available for free.
 
 ### Selection of Submitted Bug Reports
 
