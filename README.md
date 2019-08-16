@@ -34,6 +34,8 @@
     * [Pengwin Twitter](https://twitter.com/PengwinLinux)
     * [Pengwin Blog](https://www.pengwin.dev/blog)
   * [GitHub](https://github.com/whitewaterfoundry/)
+* Legal Tech
+  * "DAP" - A tool to monitor trends in cases being filed in a large county in Georgia including party demographics, case types, and outcomes. Includes an API for a county IBM 3720 mainframe and accesses multiple public APIs to develop a profile of each case.
   
 ### Personal Tech Projects
 
