@@ -22,7 +22,7 @@
 * Software testing, bug reports, licensing compliance, and quality assurance.
 * Writing software documentation and blogging.
 
-### Business Tech Projects
+### Former Business Tech Projects
 
 * Whitewater Foundry
   * [Website](https://www.pengwin.dev)
@@ -83,7 +83,7 @@ Prior to my legal career I worked in sales for Apple and as a Paramedic.
 * [Ubuntu](https://bugs.launchpad.net/ubuntu/artful/+source/ebtables/+bug/1774120)
 * [Fedora](https://bugzilla.redhat.com/buglist.cgi?bug_status=NEW&bug_status=VERIFIED&bug_status=ASSIGNED&bug_status=MODIFIED&bug_status=ON_DEV&bug_status=ON_QA&bug_status=RELEASE_PENDING&bug_status=POST&email1=recalcitrantowl%40gmail.com&emailassigned_to1=1&emailcc1=1&emailreporter1=1&emailtype1=exact&list_id=8886617
 )
-* [Solus](https://dev.solus-project.com/p/sirredbeard/)
+* Solus
 * [Ubuntu Touch](https://github.com/ubports/ubuntu-touch/issues/608)
 * [Clear Linux](https://github.com/clearlinux/distribution/issues/78)
 * [Mono](https://github.com/mono/monodevelop/issues/5022)
