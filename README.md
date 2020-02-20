@@ -1,6 +1,5 @@
 # Hayden Barnes
 
-* Attorney who turned his passion for open source and experience advising businesses into an indie open source startup. 
 * [LinkedIn](https://www.linkedin.com/in/thbarnes)
 * [Personal Blog](https://boxofcables.dev/)
 
@@ -56,7 +55,6 @@
 * Open source software issues and license compliance.
 * Appointed legislative counsel to Georgia State Senate Judiciary Committee.
 * Clerkships with Johns Hopkins Hospital and USDA National Appeals Division.
-* See [old law firm website](https://www.rivertownlawyer.com/). 
 
 ### Education
 
